@@ -1,0 +1,18 @@
+/* inter-regular - latin_cyrillic */
+@font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    src: 
+     url(../../vendor/inter-v12-latin_cyrillic/inter-v12-latin_cyrillic-regular.woff2) format('woff2'), /* Super Modern Browsers */
+     url(../../vendor/inter-v12-latin_cyrillic/inter-v12-latin_cyrillic-regular.ttf) format('ttf'); /* Safari, Android, iOS */
+  }
+  /* inter-600 - latin_cyrillic */
+  @font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    src: 
+     url(../../vendor/inter-v12-latin_cyrillic/inter-v12-latin_cyrillic-600.woff2) format('woff2'), /* Super Modern Browsers */
+     url(../../vendor/inter-v12-latin_cyrillic/inter-v12-latin_cyrillic-600.ttf) format('ttf'); /* Safari, Android, iOS */
+  }
